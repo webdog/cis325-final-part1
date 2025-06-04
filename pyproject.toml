@@ -1,0 +1,31 @@
+[project]
+name = "cis325-final-pt1"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Christian Weber",email = "christianweber2027@u.northwestern.edu"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "uwsgi (>=2.0.30,<3.0.0)",
+    "flask (>=3.1.1,<4.0.0)",
+    "tensorflow (==2.16.2)",
+    "pandas (>=2.2.3,<3.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+matplotlib = "^3.10.3"
+scikit-learn = "^1.6.1"
+
+
+[tool.poetry.group.macos.dependencies]
+tensorflow-macos = "^2.16.2"
+
