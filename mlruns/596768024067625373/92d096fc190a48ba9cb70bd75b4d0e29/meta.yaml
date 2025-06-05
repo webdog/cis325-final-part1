@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/webdog/git/cis325-final-pt1/mlruns/596768024067625373/92d096fc190a48ba9cb70bd75b4d0e29/artifacts
+end_time: 1749165360163
+entry_point_name: ''
+experiment_id: '596768024067625373'
+lifecycle_stage: active
+run_id: 92d096fc190a48ba9cb70bd75b4d0e29
+run_name: GridSearchCV
+run_uuid: 92d096fc190a48ba9cb70bd75b4d0e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749165350730
+status: 3
+tags: []
+user_id: webdog

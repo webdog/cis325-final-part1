@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/webdog/git/cis325-final-pt1/mlruns/596768024067625373/c2f2092a176c442990bcf6a09b717ca7/artifacts
+end_time: 1749165323605
+entry_point_name: ''
+experiment_id: '596768024067625373'
+lifecycle_stage: active
+run_id: c2f2092a176c442990bcf6a09b717ca7
+run_name: data_preprocessing
+run_uuid: c2f2092a176c442990bcf6a09b717ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749165323591
+status: 3
+tags: []
+user_id: webdog
